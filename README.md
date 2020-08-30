@@ -1,2 +1,3 @@
 # CuscuzBot
-Um Robô para Discord, feito emPython
+
+Um Robô para Discord, feito em Python
