@@ -18,6 +18,6 @@ Este Robô foi criado usando o seguinte tuorial, da Equipe do RealPython (Em ing
 
 # Hablas another linguagem?
 
-This project is maintained by a Brazillian team, so, the majority of the texts tend to be in Brazillian Portuguese. Although we have people able speak other languages (English, Spanish, a little bit of German and even Chinese!) we have no plans to make these documents available in any of them for now. Sorry about that :(
+This project is maintained by a Brazillian team, so, the majority of of it will be written in Brazillian Portuguese. Although we have people able speak other languages (English, Spanish, a little bit of German and even Chinese!) we have no plans to make these documents available in any of them for now. Sorry about that :(
     
 But hey, don't give up. We may find some time in our busy lifes and translate everything in the near future (Or not. Who knows? ¯\\\_(ツ)\_/¯)
