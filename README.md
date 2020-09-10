@@ -1,6 +1,6 @@
 # CuscuzBot
 
-Uma Robozinha para Discord, feita em Python.
+Um Robô para Discord, feito em Python.
 
 # Introdução
 
